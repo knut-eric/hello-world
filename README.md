@@ -1,2 +1,3 @@
-# hello-world
-Test repository
+# Hello!
+
+Knut-Eric Joslin is an Assistant Professor at Kristiania University College
