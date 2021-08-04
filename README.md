@@ -9,4 +9,6 @@ Knut-Eric Joslin is an Assistant Professor at Kristiania University College
 *website*: www.knutericnjoslin.com
 
 ## Code in markdown
-```{python} print("Hello Python!")```
+```{python} 
+print("Hello Python!")
+```
